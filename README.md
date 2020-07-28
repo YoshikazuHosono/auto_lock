@@ -21,3 +21,8 @@ https://www.raspberrypi.org/downloads/noobs/
 - Raspberry Piに電源ケーブルをつなぐ
 
 - microSDカードが壊れた
+
+- microSDカードを新しく購入
+
+- Raspberry Piに電源を入れる、画面が自動で起動されるので、OSをインストールする。
+
